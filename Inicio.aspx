@@ -23,7 +23,7 @@
                         </div>
                         <div class="card-body text-secondary">
                            
-                            <asp:TextBox ID="TxtCentigrados" runat="server" CssClass="form-control mb-3" placeholder="Grados Centígrados"></asp:TextBox>
+                            <asp:TextBox ID="TxtCentigrados" runat="server" ESTILOS="form-control mb-3" placeholder="Grados Centígrados"></asp:TextBox>
                     
                             <asp:TextBox ID="TxtFarenheit" runat="server" CssClass="form-control mb-4" placeholder="Grados Farenheit" ></asp:TextBox>
                             <asp:Button ID="BtnCalcular" runat="server" Text="Calcular" CssClass="btn btn-primary"  OnClick="BtnCalcular_Click" />
