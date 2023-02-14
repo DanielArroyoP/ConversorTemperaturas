@@ -19,7 +19,7 @@
             <div class="d-flex vh-100 justify-content-center align-items-center">
                     <div class="card  mb-3">
                         <div class="card-header text-bg-dark bg-opacity-75">
-                            <span class="h5 me-auto">Conversor Temperaturas</span>
+                            <span class="h5 me-auto">JS Temperaturas</span>
                         </div>
                         <div class="card-body text-secondary">
                            
