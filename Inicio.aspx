@@ -22,7 +22,7 @@
                             <span class="h5 me-auto">JS Temperaturas</span>
                         </div>
                         <div class="card-body text-secondary">
-                           
+                           Hola
                             <asp:TextBox ID="TxtCentigrados" runat="server" ESTILOS="form-control mb-3" placeholder="Grados Centígrados"></asp:TextBox>
                     
                             <asp:TextBox ID="TxtFarenheit" runat="server" CssClass="form-control mb-4" placeholder="Grados Farenheit" ></asp:TextBox>
