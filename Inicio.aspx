@@ -23,6 +23,7 @@
                         </div>
                         <div class="card-body text-secondary">
                            Hola
+                           Nuevo cambio
                             <asp:TextBox ID="TxtCentigrados" runat="server" ESTILOS="form-control mb-3" placeholder="Grados Centígrados"></asp:TextBox>
                     
                             <asp:TextBox ID="TxtFarenheit" runat="server" CssClass="form-control mb-4" placeholder="Grados Farenheit" ></asp:TextBox>
